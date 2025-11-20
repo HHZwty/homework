@@ -1,0 +1,3 @@
+/home/wty/Homework/build/CMakeFiles/run.dir
+/home/wty/Homework/build/CMakeFiles/edit_cache.dir
+/home/wty/Homework/build/CMakeFiles/rebuild_cache.dir
